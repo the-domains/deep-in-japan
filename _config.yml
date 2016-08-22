@@ -1,4 +1,3 @@
-layout_spectrum: 0.11520293517969549
 typography_spectrum: 0.9477394276764244
 color:
   brandStrength: 0.7595037291757762
@@ -11,4 +10,14 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Deep in Japan
+layout_spectrum: 0.11520293517969549
+author:
+  name: Jeffrey Krueger
+  email: ecowilliam@gmail.com
+name: Deep in Japan Podcast
+navigation:
+  - name: Amazon Affiliate Link
+    url: www.amazon.com
+    type: external
+title: Deep in Japan
+description: Insightful interviews with people who live in Japan.
