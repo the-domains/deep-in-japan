@@ -15,5 +15,9 @@ author:
   name: Jeffrey Krueger
   email: ecowilliam@gmail.com
 name: Deep in Japan Podcast
+navigation:
+  - name: Amazon Affiliate Link
+    url: www.amazon.com
+    type: external
 title: Deep in Japan
 description: 'Rich, insightful interviews with people who live in Japan.'
